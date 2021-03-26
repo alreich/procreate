@@ -1,7 +1,21 @@
 Occasionally a tutorial will mention a brush, but not say which brush set it can be found in. To avoid having to look through every set to find it, I created an alphabetical list of brush names and set(s) where they can be found.  There are very likely errors here, so if you find any, let me know and I’ll update the list. 
 
-*** - Indicates a copy of a default brush that came with Procreate (I think)
-      (It also could indicate a brush that I accidentally created :-)
+NOTE: There are several reasons for custom brushes that appear in my list.  Some might have been mistakenly created by me.  I've marked them with (???).  Others are "discontinued" brushes that still show up in my sets.  According to [Ref A], below, brushes were discontinue when Procreate transitioned from version 3.2.4 to 4,0, and when Procreate transitioned to version 5.0.  They are marked with (3>4) and (5), respectively, in my list.
+
+[Ref A] - https://folio.procreate.art/discussions/10/28/43317
+
+CUSTOM BRUSHES:
+ (3>4) - Custom. Removed in Procreate 3.2.4 > 4.0 transition,
+           according to [Ref A]. Appears now in my sets as a custom brush
+   (5) - Custom. Removed in Procreate 5.0 release, according to [Ref A];
+           Appears now in my sets as a custom brush
+ (???) - Custom &/or Default. Sometimes the same brush appears as both
+           a default & a custom brush in either the same or different lists.
+           Not sure why.  Some might be due to my mistakes.
+Pocket - All of the Pocket brushes show up as custom brushes.
+           Some are duplicates of default brushes; others are unique.
+
+ALPHABETICAL LIST OF BRUSHES
 
 “Brush Name” - “Brush Set”
 --------------------------
@@ -18,13 +32,13 @@ Blotch - Water
 Blotchy - Calligraphy
 Bokeh Lights - Luminance
 Bolt - Vintage
-Bonobo Chalk - Sketching
-Brush Pen - Calligraphy, Inking ***
+Bonobo Chalk - Sketching (5)
+Brush Pen - Calligraphy, Inking (3>4)
 Burnt Tree - Charcoals
 Burst - Spraypaints
 Buzzz - Vintage
 Caged - Industrial
-Calligraphy Pen - Inking ***
+Calligraphy Pen - Inking (3>4)
 Campagnia - Vintage
 Carbon Stick - Charcoals
 Chalk - Calligraphy
@@ -39,7 +53,7 @@ Crystals - Elements
 Cubes - Textures
 Currawong - Textures
 Cygnet - Textures
-Damp Brush - Painting
+Damp Brush - Painting (5)
 Decimals - Textures
 Derwent - Sketching
 Diagonal - Textures
@@ -59,7 +73,7 @@ Fine Tip - Inking
 Flames - Elements
 Flare - Luminance
 Flat Brush - Painting
-Flat Marker - Inking ***
+Flat Marker - Inking (3>4)
 Flicks - Spraypaints
 Flower Power - Vintage
 Flowing Hair - Touchups
@@ -68,7 +82,7 @@ Freycinet - Drawing
 Fury ink - Pocket
 Galaxias - Vintage
 Gel Pen - Inking
-Gesinski Ink - Inking, Inking ***, Artistic ***
+Gesinski Ink - Inking, Inking (???), Artistic (???)
 Glimmer - Luminance
 Gloaming - Drawing
 Gouache - Painting
@@ -87,7 +101,7 @@ Hessian - Organic
 Hexavector  - Abstract
 Honeyeater - Vintage
 Ink - Pocket
-Ink Bleed - Inking, Inking ***
+Ink Bleed - Inking, Inking (???)
 Inka - Inking
 Jagged Brush - Painting
 Kunanyl - Calligraphy
@@ -129,7 +143,7 @@ Old Beach - Artistic
 Old Brush - Painting
 Old Skin - Touchups
 Opticon  - Abstract
-Oriental Brush - Painting
+Oriental Brush - Painting (5)
 Paint brush - Pocket
 Pandani - Inking
 Paper Daisy - Organic
@@ -147,14 +161,14 @@ Reed - Organic
 Rosette - Textures
 Rough Skin - Touchups
 Round Brush - Painting
-Round Marker - Inking ***
+Round Marker - Inking (???)
 Rusted Decay - Industrial
 Sable - Organic
 Salamanca - Painting
 Sassafras - Artistic
 Script - Calligraphy
 Shader - Pocket
-Shading Graphite - Sketching
+Shading Graphite - Sketching (3>4)
 Shaft Hair - Touchups
 Shale Brush - Calligraphy
 Smoke - Elements
@@ -168,7 +182,7 @@ Spicule - Abstract
 Spires - Organic
 Splatter - Spraypaints
 Stickman - Abstract
-Stipple - Inking ***
+Stipple - Inking (3>4)
 Stone Wall - Industrial
 Storm Bay - Abstract
 Streaks - Calligraphy
@@ -198,7 +212,7 @@ Wash - Water, Pocket
 Wasteland - Industrial
 Water - Elements
 Water Bleed - Water
-Water Brush - Painting ***
+Water Brush - Painting (3>4)
 Water Drip - Water
 Water Flicks - Water
 Water Pen - Calligraphy
@@ -207,7 +221,7 @@ Waveform - Abstract
 Wedge Tail - Vintage
 Wet Acrylic - Painting
 Wet Glaze - Water
-Wet Round Brush - Painting ***
+Wet Round Brush - Painting (???)
 Wet Sponge - Water
 Wild Light - Artistic
 Wildgrass - Organic
