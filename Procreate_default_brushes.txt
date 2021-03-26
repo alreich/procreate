@@ -1,6 +1,14 @@
-Occasionally a tutorial will mention a brush, but not say which brush set it can be found in. To avoid having to look through every set to find it, I created an alphabetical list of brush names and set(s) where they can be found.  There are very likely errors here, so if you find any, let me know and I’ll update the list. 
+Occasionally a tutorial will mention a brush, but not say which brush set
+it can be found in. To avoid having to look through every set to find it,
+I created an alphabetical list of brush names and set(s) where they can be
+found.  There are very likely errors here, so if you find any, let me know.
 
-NOTE: There are several reasons for custom brushes that appear in my list.  Some might have been mistakenly created by me.  I've marked them with (???).  Others are "discontinued" brushes that still show up in my sets.  According to [Ref A], below, brushes were discontinue when Procreate transitioned from version 3.2.4 to 4,0, and when Procreate transitioned to version 5.0.  They are marked with (3>4) and (5), respectively, in my list.
+NOTE: There are several reasons for custom brushes that appear in my list.
+Some might have been mistakenly created by me.  I've marked them with (???).
+Others are "discontinued" brushes that still show up in my sets.  According
+to [Ref A], below, brushes were discontinue when Procreate transitioned from
+version 3.2.4 to 4,0, and when Procreate transitioned to version 5.0.  They
+are marked with (3>4) and (5), respectively, in my list.
 
 [Ref A] - https://folio.procreate.art/discussions/10/28/43317
 
