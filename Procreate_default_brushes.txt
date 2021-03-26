@@ -6,9 +6,9 @@ NOTE: There are several reasons for custom brushes that appear in my list.  Some
 
 CUSTOM BRUSHES:
  (3>4) - Custom. Removed in Procreate 3.2.4 > 4.0 transition,
-           according to [Ref A]. Appears now in my sets as a custom brush
+           according to [Ref A]. Appears in my sets as a custom brush
    (5) - Custom. Removed in Procreate 5.0 release, according to [Ref A];
-           Appears now in my sets as a custom brush
+           Appears in my sets as a custom brush
  (???) - Custom &/or Default. Sometimes the same brush appears as both
            a default & a custom brush in either the same or different lists.
            Not sure why.  Some might be due to my mistakes.
