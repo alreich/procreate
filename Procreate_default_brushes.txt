@@ -1,0 +1,215 @@
+Occasionally a tutorial will mention a brush, but not say which brush set it can be found in. To avoid having to look through every set to find it, I created an alphabetical list of brush names and set(s) where they can be found.  There are very likely errors here, so if you find any, let me know and I’ll update the list.
+
+LEGEND: “Brush Name” - “Brush Set”
+        *** - Indicates a copy of a default brush that came with Procreate
+                 (i.e. not made by me; or possibly, made by me by accident :-)
+
+2B Compressed - Charcoals
+4B Compressed - Charcoals
+6B Compressed - Charcoals
+6B Pencil - Sketching
+Acrylic - Painting
+Artist Crayon - Sketching
+Aurora - Artistic
+Bamboo - Organic
+Blackburn - Drawing
+Blotch - Water
+Blotchy - Calligraphy
+Bokeh Lights - Luminance
+Bolt - Vintage
+Bonobo Chalk - Sketching
+Brush Pen - Calligraphy, Inking ***
+Burnt Tree - Charcoals
+Burst - Spraypaints
+Buzzz - Vintage
+Caged - Industrial
+Calligraphy Pen - Inking ***
+Campagnia - Vintage
+Carbon Stick - Charcoals
+Chalk - Calligraphy
+Charcoal Block - Charcoals
+Clay - Organic
+Clouds - Elements
+Concrete Block - Industrial
+Copperhead - Drawing
+Corrugated Iron - Industrial
+Cotton - Organic
+Crystals - Elements
+Cubes - Textures
+Currawong - Textures
+Cygnet - Textures
+Damp Brush - Painting
+Decimals - Textures
+Derwent - Sketching
+Diagonal - Textures
+Disco - Vintage
+Dove Lake - Textures
+Drip - Spraypaints
+Driven Snow - Elements
+Dry Brush - Painting
+Dry Ink - Inking
+Eaglehawk - Drawing
+Evolve - Drawing
+Fat Nozzle - Spraypaints
+Fever - Vintage
+Fine Hair - Touchups
+Fine Nozzle - Spraypaints
+Fine Tip - Inking
+Flames - Elements
+Flare - Luminance
+Flat Brush - Painting
+Flat Marker - Inking ***
+Flicks - Spraypaints
+Flower Power - Vintage
+Flowing Hair - Touchups
+Fresco - Painting
+Freycinet - Drawing
+Fury ink - Pocket
+Galaxias - Vintage
+Gel Pen - Inking
+Gesinski Ink - Inking, Inking ***, Artistic ***
+Glimmer - Luminance
+Gloaming - Drawing
+Gouache - Painting
+Grid - Textures
+Groovy - Vintage
+Grunge - Textures
+Hard Airbrush - Airbrushing, Pocket
+Hard Blend - Airbrushing
+Hard Brush - Airbrushing
+Hard Rain - Elements
+Hartz - Artistic
+HB Pencil - Sketching
+Heavy Metal - Industrial
+Hemp - Organic
+Hessian - Organic
+Hexavector  - Abstract
+Honeyeater - Vintage
+Ink - Pocket
+Ink Bleed - Inking, Inking ***
+Inka - Inking
+Jagged Brush - Painting
+Kunanyl - Calligraphy
+Larapuna  - Artistic
+Leatherwood - Artistic
+Light spray - Pocket
+Lightbrush  - Luminance
+Lightleak - Luminance
+Lightpen - Luminance
+Little Pine - Drawing
+Mad Splashes - Water
+Marble - Abstract
+Marker - Inking
+Medium Airbrush - Airbrushing
+Medium Blend - Airbrushing
+Medium Brush - Airbrushing
+Medium Hard Airbrush - Airbrushing
+Medium Hard Blend - Airbrushing
+Medium Hard Brush - Airbrushing
+Medium Nozzle - Spraypaints
+Melaleuca - Textures
+Membrane - Abstract
+Mercury - Inking
+Monoline - Calligraphy
+Moorilla - Drawing
+Mountain Ash - Organic
+Myrtle - Vintage
+Narinder Pencil - Sketching
+Nebula - Luminance
+Newsprint - Vintage
+Nikko Rull - Painting, Pocket
+Noise Brush - Touchups
+Oberon  - Drawing
+Oceans - Elements
+Odeon - Calligraphy
+Oil Paint - Painting, Pocket
+Oil Pastel - Sketching
+Old Beach - Artistic
+Old Brush - Painting
+Old Skin - Touchups
+Opticon  - Abstract
+Oriental Brush - Painting
+Paint brush - Pocket
+Pandani - Inking
+Paper Daisy - Organic
+Peppermint - Sketching
+Plimsoll - Artistic
+Pocket Pencil - Pocket
+Polygons - Abstract
+Procreate Pencil - Sketching
+Pulse - Luminance
+Quoll - Artistic
+Rad - Vintage
+Rainforest - Organic
+Rectango - Textures
+Reed - Organic
+Rosette - Textures
+Rough Skin - Touchups
+Round Brush - Painting
+Round Marker - Inking ***
+Rusted Decay - Industrial
+Sable - Organic
+Salamanca - Painting
+Sassafras - Artistic
+Script - Calligraphy
+Shader - Pocket
+Shading Graphite - Sketching
+Shaft Hair - Touchups
+Shale Brush - Calligraphy
+Smoke - Elements
+Snow Gum - Organic
+Soft Airbrush - Airbrushing
+Soft Blend - Airbrushing
+Soft Brush - Airbrushing, Pocket
+Soft Pastel - Sketching
+Spectra - Painting
+Spicule - Abstract
+Spires - Organic
+Splatter - Spraypaints
+Stickman - Abstract
+Stipple - Inking ***
+Stone Wall - Industrial
+Storm Bay - Abstract
+Streaks - Calligraphy
+Stubble - Touchups
+Stucco - Painting
+Studio Pen - Inking
+Styx  - Drawing
+Swordgrass - Organic
+Syrup - Inking
+Tamar - Painting
+Taraleah - Artistic
+Tarkine - Textures
+Technical Pen - Inking
+Technical Pencil - Sketching
+Tessellated - Textures
+Textured paint - Pocket
+Thylacine - Inking
+Tinderbox - Inking
+Triangulum - Abstract
+Turpentine - Painting
+Twig - Organic
+Twisted Tree - Industrial
+Ultrafine Nozzle - Spraypaints
+Victorian - Textures
+Vine Charcoal - Charcoals
+Wash - Water, Pocket
+Wasteland - Industrial
+Water - Elements
+Water Bleed - Water
+Water Brush - Painting ***
+Water Drip - Water
+Water Flicks - Water
+Water Pen - Calligraphy
+Watercolor - Painting
+Waveform - Abstract
+Wedge Tail - Vintage
+Wet Acrylic - Painting
+Wet Glaze - Water
+Wet Round Brush - Painting ***
+Wet Sponge - Water
+Wild Light - Artistic
+Wildgrass - Organic
+Willow Charcoal - Charcoals
+Wood - Textures
+Zombie Skin - Touchups
